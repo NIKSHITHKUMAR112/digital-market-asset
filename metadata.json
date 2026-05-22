@@ -1,0 +1,6 @@
+{
+  "name": "Digital Market Asset",
+  "description": "An AI-powered cyberpunk blockchain-inspired digital asset marketplace to safely trade NFTs, crypto, and physical goods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
